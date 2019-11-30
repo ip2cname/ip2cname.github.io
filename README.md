@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to IP2CName
 
-You can use the [editor on GitHub](https://github.com/ip2cname/ip2cname.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+#NAT64
+## ipv4only.ip2cname.com
+
+ipv4only.ip2cname.com A 192.170.170.170
+ipv4only.ip2cname.com A 192.187.187.187
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
